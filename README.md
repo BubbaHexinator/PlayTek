@@ -16,3 +16,6 @@ Some additional features of the contract include:
 * Initial cap of 300 ETH with embedded trigger to refund any purchases when the total cap has been reached. 
 * Time cap of 16 weeks
 
+## Files
+* [PlayTEK Coin Smart Contract](PlayTEK.sol)
+* [PlayTEK Crowdsale Smart Contract](PlarTEKCrowdsale.sol)
