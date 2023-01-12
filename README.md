@@ -29,6 +29,6 @@ Bought Tokens
 ![Buy Token](Images/buy_token.png)
 Tokens Confirmed
 ![Buy Token Confirmed](Images/buy_token_confirmed.png)
-List of featured Parameters after deployment
+List of features Parameters after deployment
 ![Functions Called Goal, Weiraised](Images/functions_called.png)
 
