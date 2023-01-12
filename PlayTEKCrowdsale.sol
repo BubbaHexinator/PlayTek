@@ -22,11 +22,19 @@ contract PlayTEKCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimeCr
         uint rate,
         address payable wallet,
         PlayTEK token
-    ) public 
-    
-    Crowdsale(rate, wallet, token) {
+        uint goal
+        uint open
+        uint close
+    ) 
+        Crowdsale(rate, wallet, token)
+        CappedCrowdsale(goal)
+        TimedCrowdsale(open,close)
+        RefundableCrowdsale(goal)
+        public
+    {
         // constructor can stay empty
     }
+
 }
 
 
