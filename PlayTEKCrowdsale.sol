@@ -61,6 +61,7 @@ contract PlayTEKCrowdsaleDeployer {
        string memory name,
        string memory symbol,
        address payable wallet
+       uint goal
     ) 
     public 
     {
@@ -70,8 +71,8 @@ contract PlayTEKCrowdsaleDeployer {
         // Assign the token contract’s address to the `kasei_token_address` variable.
         PlayTEK_token_address = address(token);
 
-        // Create a new instance of the `KaseiCoinCrowdsale` contract
-        PlayTEKCrowdsale PlayTEK_crowdsale = new PlayTEKCrowdsale(1, wallet, token);        
+        // Create a new instance of the `KaseiCoinCrowdsale` contract. Passed parametrs goal, now/open and closing times.
+        PlayTEKCrowdsale PlayTEK_crowdsale = new PlayTEKCrowdsale(1, wallet, token, goal, now, now + 12 weeks);        
             
         // Aassign the `KaseiCoinCrowdsale` contract’s address to the `kasei_crowdsale_address` variable.
         //we are address function ( built in fuction inside sol) and we are passing it the variable we created on line 48
