@@ -21,10 +21,14 @@ Some additional features of the contract include:
 * [PlayTEK Crowdsale Smart Contract](PlarTEKCrowdsale.sol)
 
 ## Execution
-
+Contract Deployment
 ![Contract Deployment](Images/contract_deployment.png)
+Deployment Confirmed
 ![Contract Deployment Confirmed via MetaMask](Images/contract_deployment_confirmed.png)
+Bought Tokens
 ![Buy Token](Images/buy_token.png)
+Tokens Confirmed
 ![Buy Token Confirmed](Images/buy_token_confirmed.png)
+List of featured Parameters after deployment
 ![Functions Called Goal, Weiraised](Images/functions_called.png)
 
