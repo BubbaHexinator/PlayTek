@@ -21,9 +21,9 @@ Some additional features of the contract include:
 * [PlayTEK Crowdsale Smart Contract](PlarTEKCrowdsale.sol)
 
 ![Contract Deployment](Images/contract_deployment.png)
-![Token Inital Purchase](Images/token_purchase.png)
-![confirmation deployed](Execution_Results/confirmation_deployment.png)
-![3](Execution_Results/crowdsale_deployment.png)
+![Contract Deployment Confirmed via MetaMask](Images/contract_deployment_confirmed.png)
+![confirmation deployed](Images/token_purchase.png)
+![3](Images/token_purchase_confirmed.png)
 ![4](Execution_Results/crowdsale_deployment(2).png)
 ![5](Execution_Results/crowdsale_deployment(3).png)
 ![6](Execution_Results/importing_token.png)
