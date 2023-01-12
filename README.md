@@ -26,6 +26,5 @@ Some additional features of the contract include:
 ![Contract Deployment Confirmed via MetaMask](Images/contract_deployment_confirmed.png)
 ![Buy Token](Images/buy_token.png)
 ![Buy Token Confirmed](Images/buy_token_confirmed.png)
-![4](Execution_Results/crowdsale_deployment(2).png)
-![5](Execution_Results/crowdsale_deployment(3).png)
-![6](Execution_Results/importing_token.png)
+![Functions Called(Goal, Weiraied)](Images/functions_called(2).png)
+
