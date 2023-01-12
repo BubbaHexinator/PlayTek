@@ -1,7 +1,7 @@
-# PlayTek
+# PlayTEK
 
 
-A decentralized Crowdsale Contract for raising funds for a a Project Playtek
+An Executable Crowdsale Contract for raising funds for anyproject. For purpose of my Project I will be lauching my coin called PlayTEK
 
 ## Libraries and Dependencies
 * [Remix IDE](https://remix.ethereum.org)
