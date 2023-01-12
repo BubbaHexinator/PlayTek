@@ -19,3 +19,11 @@ Some additional features of the contract include:
 ## Files
 * [PlayTEK Coin Smart Contract](PlayTEK.sol)
 * [PlayTEK Crowdsale Smart Contract](PlarTEKCrowdsale.sol)
+
+![Contract Deployment](Images/contract_deployment.png)
+![Token Inital Purchase](Images/token_purchase.png)
+![confirmation deployed](Execution_Results/confirmation_deployment.png)
+![3](Execution_Results/crowdsale_deployment.png)
+![4](Execution_Results/crowdsale_deployment(2).png)
+![5](Execution_Results/crowdsale_deployment(3).png)
+![6](Execution_Results/importing_token.png)
