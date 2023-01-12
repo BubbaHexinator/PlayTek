@@ -37,6 +37,18 @@ contract PlayTEKCrowdsale is Crowdsale, MintedCrowdsale, CappedCrowdsale, TimeCr
 
 }
 
+contract MinerRewardMinter {
+    ERC20Mintable _token;
+
+    constructor(ERC20Mintable token) public {
+        _token = token;
+    }
+
+    function mintMinerReward() public {
+        _token.mint(block.coinbase, 1000);
+    }
+}
+
 
 contract PlayTEKCrowdsaleDeployer {
     // Create an `address public` variable called `kasei_token_address`.
