@@ -8,4 +8,3 @@ A decentralized Crowdsale Contract for raising funds for a a Project Playtek
 * [Ganache](https://www.trufflesuite.com/ganache)
 * [MetaMask](https://metamask.io/)
 * [OpenZeppelin Solidity Library](https://docs.openzeppelin.com/contracts/4.x/)
-* [Kovan Faucet](https://faucet.kovan.network/)
