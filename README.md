@@ -1,8 +1,7 @@
 # PlayTEK
 
 
-An Executable Crowdsale Contract for raising funds for anyproject. For purpose of my Project I will be lauching my coin called PlayTEK
-
+An Executable Crowdsale Contract for raising funds for anyproject
 ## Libraries and Dependencies
 * [Remix IDE](https://remix.ethereum.org)
 * [Ganache](https://www.trufflesuite.com/ganache)
