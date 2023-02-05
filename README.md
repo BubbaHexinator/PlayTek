@@ -2,6 +2,8 @@
 
 
 An Executable Crowdsale Contract for raising funds for anyproject
+
+***A list of libraries and Dependcies I used to make this happen***
 ## Libraries and Dependencies
 * [Remix IDE](https://remix.ethereum.org)
 * [Ganache](https://www.trufflesuite.com/ganache)
